@@ -1,0 +1,15 @@
+{
+	"name": "magical-translator",
+	"version": "0.0.2",
+	"description": "Automagically translates from any language to (some) languages!",
+	"license": "MIT",
+	"repository": "lucamattiazzi/magical-translator",
+	"author": {
+		"name": "Luca Mattiazzi",
+		"email": "l.d.mattiazzi@gmail.com",
+		"url": "https://grokked.it"
+	},
+	"main": "index.js",
+	"dependencies": {},
+	"devDependencies": {}
+}
